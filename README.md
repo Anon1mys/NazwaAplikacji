@@ -74,7 +74,7 @@ Projekt skupia się na:
 
 ## Autor
 
-Imię i nazwisko: ................................  
+Imię i nazwisko: Maksym
 Kierunek: Informatyka  
 Semestr: 5  
 Przedmiot: Aplikacje mobilne na iOS
